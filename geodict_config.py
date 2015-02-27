@@ -33,6 +33,10 @@ word_max = 3
 
 # Words that provide evidence that what follows them is a location
 location_words = {
-    'at': True,
-    'in': True
+    'bei': True,
+    'in': True,
+    'vor': True,
+    'auf': True,
+    'um': True,
+    'im': True,
 }
